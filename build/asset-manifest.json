@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.b87676f5.chunk.css",
-    "main.js": "/static/js/main.7c66badb.chunk.js",
-    "main.js.map": "/static/js/main.7c66badb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7094e3bb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7094e3bb.js.map",
-    "static/js/2.31a211a1.chunk.js": "/static/js/2.31a211a1.chunk.js",
-    "static/js/2.31a211a1.chunk.js.map": "/static/js/2.31a211a1.chunk.js.map",
+    "main.css": "/static/css/main.a2bd6515.css",
+    "main.js": "/static/js/main.b13eee14.js",
+    "static/media/AirbnbCereal-Book.ttf": "/static/media/AirbnbCereal-Book.3109661d59081af59380.ttf",
+    "static/media/AirbnbCereal-Medium.ttf": "/static/media/AirbnbCereal-Medium.60c1c9216baaa7ef12ea.ttf",
+    "static/media/AirbnbCereal-Bold.ttf": "/static/media/AirbnbCereal-Bold.b1e52d12c62118a1e39a.ttf",
+    "static/media/AirbnbCereal-Light.ttf": "/static/media/AirbnbCereal-Light.59aceb6dfde1aab9032d.ttf",
+    "static/media/AirbnbCereal-ExtraBold.ttf": "/static/media/AirbnbCereal-ExtraBold.c49249f7d44ff614efd7.ttf",
+    "static/media/AirbnbCereal-Black.ttf": "/static/media/AirbnbCereal-Black.ade7c001fb4cb8c9ab03.ttf",
+    "static/media/kadet_big.png": "/static/media/kadet_big.857c3c10adbb806c3aaa.png",
     "index.html": "/index.html",
-    "precache-manifest.fa40028ba96a21fcad90cc22606ab80a.js": "/precache-manifest.fa40028ba96a21fcad90cc22606ab80a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b87676f5.chunk.css.map": "/static/css/main.b87676f5.chunk.css.map",
-    "static/js/2.31a211a1.chunk.js.LICENSE.txt": "/static/js/2.31a211a1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/AirbnbCereal-Medium.d9fb3054.ttf",
-    "static/media/arrow.svg": "/static/media/arrow.43a17860.svg",
-    "static/media/kadet_big.png": "/static/media/kadet_big.1eb11e37.png",
-    "static/media/menu-line.svg": "/static/media/menu-line.cd55c848.svg"
+    "static/media/arrow.svg": "/static/media/arrow.1730be353688bb18396c78b1f23e5c8b.svg",
+    "static/media/menu-line.svg": "/static/media/menu-line.d7718312fb1cb9bda71c61c12e50a42c.svg",
+    "main.a2bd6515.css.map": "/static/css/main.a2bd6515.css.map",
+    "main.b13eee14.js.map": "/static/js/main.b13eee14.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7094e3bb.js",
-    "static/js/2.31a211a1.chunk.js",
-    "static/css/main.b87676f5.chunk.css",
-    "static/js/main.7c66badb.chunk.js"
+    "static/css/main.a2bd6515.css",
+    "static/js/main.b13eee14.js"
   ]
 }
